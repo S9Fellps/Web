@@ -72,7 +72,44 @@ p.texto {
 
 
 #cabecalhoimg img {
-width: 70%;
-margin-left: 42px;
-border-radius: 15%;
+    width: 70%;
+    margin-left: 42px;
+    border-radius: 15%;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#buttoncta {
+    background-color: #1F7CFF;
+    width: 180px;
+    height: 48px;
+    top: 504px;
+    left: 160px;
+    gap: 0px;
+    border-radius: 40px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 50px 10px 50px;
+
+}
+
+#clientes {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#cabecalhoclienteTexto {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: #070F18;
 }
